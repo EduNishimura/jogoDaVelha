@@ -1,0 +1,17 @@
+body {
+    background-color: #192A32;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100hv;
+}
+
+.container {
+    margin: auto;
+}
+
+header{
+    margin: auto;
+    background-color: red;
+    width: 50%
+}
